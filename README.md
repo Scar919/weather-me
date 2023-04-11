@@ -7,7 +7,7 @@ HTML CSS JavaScript Jquery Git Hub
 The motivation behind this project was to make a webpage of current weather for anyone who was traveling to a new city or on vacation. The webpage is meant to pull up whatever city is typed into the search engine and provide the temp, wind, and humidity all while keeping the search history.
 
 ![screenshot](./assets/img.png)
-
+https://scar919.github.io/weather-me/
 
 # Usage
 Creating this weather site was meant to make it easier for clients to easilt pull up a location and see the temp. It would save all data of previously searched cities to easily navigate back through if needed.
